@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-	<h2>도서추가</h2>
-=======
 	<h2>도서등록</h2>
->>>>>>> branch 'master' of https://github.com/qordpsem/korea_b.git
 	<hr>
 </body>
 </html>
